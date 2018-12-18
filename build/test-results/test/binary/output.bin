@@ -1,0 +1,3410 @@
++Coordinate(x=0, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+Z[Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=1), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=3, y=1), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+p[Coordinate(x=2, y=0), Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=1), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=2), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+Z[Coordinate(x=2, y=0), Coordinate(x=2, y=2), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=2), Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=2), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=2)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=2), Coordinate(x=2, y=3)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=2, y=2)
+ANON:ANON
+[Coordinate(x=2, y=2)]
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+p[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+p[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=3, y=2), Coordinate(x=3, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+Z[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=2)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=2)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=3)
+ANON:ANON
+Z[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=1), Coordinate(x=3, y=3)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=3)
+ANON:ANON
+[Coordinate(x=3, y=3)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
+[Coordinate(x=2, y=3)]
++Coordinate(x=3, y=3):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+.[Coordinate(x=2, y=3), Coordinate(x=3, y=2)]
++Coordinate(x=2, y=3):Coordinate(x=3, y=2)
+ANON:ANON
+[Coordinate(x=3, y=2)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=1), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=2):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=2, y=3)
+ANON:ANON
++Coordinate(x=3, y=2):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=2, y=1), Coordinate(x=2, y=3), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=1)
+ANON:ANON
+Z[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=3, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+[Coordinate(x=3, y=1)]
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=3, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=2, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=1), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+[Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=3, y=0)
+ANON:ANON
+D[Coordinate(x=1, y=0), Coordinate(x=2, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+[Coordinate(x=3, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=3, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=3, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+[Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=3, y=0):Coordinate(x=2, y=0)
+ANON:ANON
++Coordinate(x=3, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=2, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=1)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=1)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
++Coordinate(x=2, y=1):Coordinate(x=1, y=0)
+ANON:ANON
++Coordinate(x=2, y=1):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=1, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
++Coordinate(x=1, y=0):Coordinate(x=2, y=0)
+ANON:ANON
+.[Coordinate(x=0, y=0), Coordinate(x=2, y=0)]
++Coordinate(x=2, y=0):Coordinate(x=1, y=0)
+ANON:ANON
+[Coordinate(x=1, y=0)]
++Coordinate(x=1, y=0):Coordinate(x=0, y=0)
+ANON:ANON
+[Coordinate(x=0, y=0)]
