@@ -1,6 +1,6 @@
-# Project2820
+# Tic-tac-toe
 ## Overview
-This is a Tic tac toe project for CS:2820 implemented in Kotlin using JavaFX and TornadoFX. This project is a variation between regular Tic Tac Toe and a Japanese game called [Gomoku](https://en.wikipedia.org/wiki/Gomoku) where the goal is to get five in a row of either Xs or Os horizontally, vertically, or diagonally that has not been blocked by the opponent. The game features the following modes: Human vs Human, Human vs AI, and AI vs AI.
+This is an object-oriented Tic-tac-toe project implemented in Kotlin using JavaFX and TornadoFX. This project is a variation between regular Tic-tac-toe and a Japanese game called [Gomoku](https://en.wikipedia.org/wiki/Gomoku) where the goal is to get five in a row of either Xs or Os horizontally, vertically, or diagonally that has not been blocked by the opponent. The game features the following modes: Human vs Human, Human vs AI, and AI vs AI.
 
 ## Project Status
 ### Working
@@ -19,8 +19,7 @@ This is a Tic tac toe project for CS:2820 implemented in Kotlin using JavaFX and
 ## Installation
 To run this project:
 
-1. Clone this repository from the terminal with `git clone https://github.uiowa.edu/mpdargan/Project2820.git` or `git clone git@github.uiowa.edu:mpdargan/Project2820.git` or download it into a zip file by clicking:
-   [link](https://github.uiowa.edu/mpdargan/Project2820/archive/master.zip)
+1. Clone this repository from the terminal with `git clone https://github.com/matthewdargan/TicTacToe-JavaFX` or download it into a zip file by clicking: [link](https://github.com/matthewdargan/TicTacToe-JavaFX/archive/master.zip)
 2. Import the project into IntelliJ using the option for Gradle.
 3. Run the Run.kt file located in `src/main/kotlin/edu/uiowa/presentation` to start the game!
 
